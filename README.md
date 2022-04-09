@@ -1,0 +1,1 @@
+The project named LockeMe.com is a prototype application which implements file management system. This project implements creating root directory by creating a bin folder. It’s a console based application i.e all the operations are executed on the console. It provides user the ability to perform various different operations i.e to add, search, remove from the root directory.
